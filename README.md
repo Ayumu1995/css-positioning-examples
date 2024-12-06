@@ -1,5 +1,3 @@
-An example of basic HTML and CSS.
-
-This README file has been edited.
+Just watch index.html, the other pages aren't modified.
 
 Created by Ayumu
